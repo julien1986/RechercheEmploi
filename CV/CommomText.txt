@@ -1,0 +1,18 @@
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Voluptates ea veniam blanditiis, officiis vel pariatur 
+fugiat sunt adipisci unde temporibus ipsum ratione, 
+asperiores quasi dolorem! Vitae omnis fuga dolore dolorem.
+
+Nb de caratère du p1 :
+
+Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+ Vel obcaecati soluta nulla quo eos vero iusto beatae necessitatibus
+ repellat, minus dolorum eligendi quia nesciunt officia aut commodi? Fugit, sunt ad!
+
+Nb de caractère du p2 : 
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus nulla voluptatem beatae. 
+Porro, minus quasi? Cumque illo, repellat perspiciatis pariatur, dolorem asperiores soluta 
+ex quas voluptate obcaecati vero, corporis iste.
+
+Nb de caratère du p3 :
