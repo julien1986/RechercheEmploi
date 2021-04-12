@@ -9,7 +9,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit.
  Vel obcaecati soluta nulla quo eos vero iusto beatae necessitatibus
  repellat, minus dolorum eligendi quia nesciunt officia aut commodi? Fugit, sunt ad!
 
-Nb de caractère du p2 : 
+Nb de caractère du p2 : 211
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus nulla voluptatem beatae. 
 Porro, minus quasi? Cumque illo, repellat perspiciatis pariatur, dolorem asperiores soluta 
