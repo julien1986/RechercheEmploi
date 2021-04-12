@@ -1,6 +1,13 @@
 Mathieu
 Julien
 13/07/1986
-jul.mathieu1986@gmail.com
+une adresse mail
 une adresse psotale
 un num de tel
+
+HOBBIES:
+dev
+dev
+rhum
+dev
+
